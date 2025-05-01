@@ -1,0 +1,7 @@
+# requirements.txt para OctoFit Tracker
+# Baseado no projeto Monafit Tracker
+
+django
+djangorestframework
+django-cors-headers
+pymongo
